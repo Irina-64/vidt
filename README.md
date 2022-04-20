@@ -1,3 +1,6 @@
+[ Фотография ![image](https://user-images.githubusercontent.com/26509324/164288279-7887bbec-4e73-4b08-9b85-1455f46e465f.png)]
+забавно, что вариационный автокодировщик обучается даже если при обучении подавать разные изображения на вход и выход
+
 Paper: https://arxiv.org/abs/2204.07962v1
 
 Dataset: https://paperswithcode.com/dataset/coco
