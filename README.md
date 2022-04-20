@@ -1,3 +1,7 @@
+Paper: https://arxiv.org/abs/2204.07962v1
+
+Dataset: https://paperswithcode.com/dataset/coco
+
 # An Extendable, Efficient and Effective Transformer-based Object Detector (Extension of VIDT published at ICLR2022)
 
 **Please see the [vidt branch](https://github.com/naver-ai/vidt/tree/main) if you are interested in the vanilla ViDT model.**</br> **This is an extension of ViDT for joint-learning of object detection and instance segmentation.**
